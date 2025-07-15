@@ -1,5 +1,9 @@
 # 👩‍💻 Olá! Eu sou a Larissa Arruda
 
+![Gato Preto GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+> **"Codificando sonhos, uma linha de cada vez."**
+
 Sou estudante de **Desenvolvimento de Sistemas na ETEC**, apaixonada por tecnologia, café e gatos.  
 Gosto de unir lógica e criatividade, e estou sempre em busca de aprendizado — seja nos códigos ou nos livros.  
 Atualmente focada nos estudos e em construir um caminho sólido como futura desenvolvedora.  
@@ -18,22 +22,17 @@ Atualmente focada nos estudos e em construir um caminho sólido como futura dese
 
 ---
 
-## 💻 Tecnologias e ferramentas
-
-### ✅ Conhecimentos atuais:
+## 💻 Tecnologias e conhecimentos atuais:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🧪 Estudando atualmente:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🛠 Ferramentas que uso:
-
-- Canva  
-- Visual Studio Code
 
 ---
 
@@ -46,10 +45,12 @@ Atualmente focada nos estudos e em construir um caminho sólido como futura dese
 
 ---
 
-> 💬 *"Frase inspiradora aqui."* — você pode editar depois!
+> 💬 *"Simplicidade é a sofisticação máxima."* — Leonardo da Vinci
 
 ---
 
 📌 Em breve, portfólio completo com projetos e Linktree!
+
+![Outro Gato Preto](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
 
 
