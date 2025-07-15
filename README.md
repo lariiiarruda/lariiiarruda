@@ -1,19 +1,37 @@
-# 👩‍💻 Olá! Eu sou a Larissa Arruda
+<!-- Banner "Bem-vindo" (substitua pelo seu link, se quiser imagem personalizada) -->
+<p align="center">
+  <img src="COLE_AQUI_O_LINK_DA_IMAGEM_BEM_VINDO" alt="Bem-vindo ao meu laboratório de códigos" width="100%">
+</p>
 
-![Gato Preto GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<!-- Título centralizado -->
+<h1 align="center" style="color:#6A0DAD;">☕👩🏻‍💻🐱 Bem-vindo ao meu laboratório de códigos</h1>
 
-> **"Codificando sonhos, uma linha de cada vez."**
+<!-- Frase do café com gifs dos lados -->
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90" alt="Gato Esquerdo" />
+  &nbsp;&nbsp;&nbsp;
+  <span style="font-size: 18px;">
+    <strong>Café forte na xícara,</strong><br />
+    <em>códigos fortes no teclado,</em><br />
+    <strong>gatos no trono do escritório!</strong>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="90" alt="Gato Direito" />
+</p>
 
-Sou estudante de **Desenvolvimento de Sistemas na ETEC**, apaixonada por tecnologia, café e gatos.  
-Gosto de unir lógica e criatividade, e estou sempre em busca de aprendizado — seja nos códigos ou nos livros.  
-Atualmente focada nos estudos e em construir um caminho sólido como futura desenvolvedora.  
+<!-- Apresentação -->
+<p align="center">
+  Olá! Eu sou a <strong>Larissa Arruda</strong>. Sou estudante de <strong>Desenvolvimento de Sistemas na ETEC</strong>, apaixonada por tecnologia, café e gatos.  
+  <br>Gosto de unir lógica e criatividade, e estou sempre em busca de aprendizado — seja nos códigos ou nos livros.  
+  <br>Atualmente focada nos estudos e em construir um caminho sólido como futura desenvolvedora.
+</p>
 
-📍 São Paulo, Brasil
 
 ---
 
 ## ☕ Sobre mim
 
+- 📍 São Paulo, Brasil
 - 🎓 Estudante dedicada e curiosa  
 - 💻 Interesse por programação, design e automações  
 - 🐱 Apaixonada por gatos e café (companheiros fiéis de código)  
@@ -24,33 +42,44 @@ Atualmente focada nos estudos e em construir um caminho sólido como futura dese
 
 ## 💻 Tecnologias e conhecimentos atuais:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ### 🧪 Estudando atualmente:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
 ---
 
-## ME CONTATE 📲
+## 📲 Me contate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-correia-arruda-08027626a)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:larissacorreia3.lca@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511975581094)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario_aqui)
+<p align="center">
+  <a href="https://www.linkedin.com/in/larissa-correia-arruda-08027626a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:larissacorreia3.lca@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://wa.me/5511975581094" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+  </a>
+</p>
 
 ---
 
-> 💬 *"Simplicidade é a sofisticação máxima."* — Leonardo da Vinci
-
----
-
-📌 Em breve, portfólio completo com projetos e Linktree!
-
-![Outro Gato Preto](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
-
-
+<p align="center">
+  <em>"Simplicidade é a sofisticação máxima." — Leonardo da Vinci</em>
+</p>
