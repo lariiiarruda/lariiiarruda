@@ -4,6 +4,8 @@ Sou estudante de **Desenvolvimento de Sistemas na ETEC**, apaixonada por tecnolo
 Gosto de unir lógica e criatividade, e estou sempre em busca de aprendizado — seja nos códigos ou nos livros.  
 Atualmente focada nos estudos e em construir um caminho sólido como futura desenvolvedora.  
 
+📍 São Paulo, Brasil
+
 ---
 
 ## ☕ Sobre mim
@@ -16,7 +18,7 @@ Atualmente focada nos estudos e em construir um caminho sólido como futura dese
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias e ferramentas
 
 ### ✅ Conhecimentos atuais:
 
@@ -28,13 +30,19 @@ Atualmente focada nos estudos e em construir um caminho sólido como futura dese
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+### 🛠 Ferramentas que uso:
+
+- Canva  
+- Visual Studio Code
+
 ---
 
-## 📫 Contato
+## ME CONTATE 📲
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-correia-arruda-08027626a)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:larissacorreia3.lca@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511975581094)  
-📧 **larissacorreia3.lca@gmail.com**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-correia-arruda-08027626a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario_aqui)
 
 ---
 
@@ -43,4 +51,5 @@ Atualmente focada nos estudos e em construir um caminho sólido como futura dese
 ---
 
 📌 Em breve, portfólio completo com projetos e Linktree!
+
 
